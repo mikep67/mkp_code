@@ -1,2 +1,1 @@
-# mkp_code
-# Make Some Changes
+You need to add projects and lab solutions here
