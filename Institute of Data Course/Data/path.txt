@@ -1,0 +1,37 @@
+   set_xticklabels(['Temperature', 'Wind Speed'])
+   
+x= iris_data["sepal_width"]
+y = iris_data["sepal_length"]
+sns.implot(x,y, hue=iris_data["species"], fit_reg = False)
+
+
+x= iris_data["sepal_width"]
+y = iris_data["sepal_length"]
+plt.scatter(x,y, hue=iris_data["species"])
+
+ https://github.com/devanshmanu/StravAdd/blob/master/SFPD_Incidents_-_Current_Year__2015_.csv
+ 
+ 
+ # Add additional libraries
+import io
+import requests
+
+# Request the data from the webpage as a string
+url = 'https://gist.githubusercontent.com/seankross/a412dfbd88b3db70b74b/raw/5f23f993cd87c283ce766e7ac6b329ee7cc2e1d1/mtcars.csv'
+s = requests.get(url).content
+
+# Read the webpage into a panda dataframe
+mtcars = pd.read_csv(io.StringIO(s.decode('utf-8')))
+
+
+for i in range(0,len(data)):
+   folium.Circle(
+      location=[data.iloc[i]['lon'], data.iloc[i]['lat']],
+      popup=data.iloc[i]['name'],
+      radius=data.iloc[i]['value']*10000,
+      color='crimson',
+      fill=True,
+      fill_color='crimson'
+   ).add_to(m)
+ 
+  SET GOOGLE_APPLICATION_CREDENTIALS='C:\Users\micha\Documents\My First Project-a198d47e7e50.json'
