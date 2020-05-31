@@ -1,0 +1,769 @@
+,ea_id,com_roadtype,com_vehicles,com_bus,com_urbancenter,com_dailymrkt,com_weeklymrkt,com_postoffice,com_publicphone,com_distprimary,com_classrooms,com_schoolelec,com_medicines,com_clinic,com_distclinic,com_bank
+0,10101016,GRADED GRAVELED,YES,Yes,No,No,Yes,No,NO,,Yes,No,No,No,21 to 25 kilometers,No
+1,10101204,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+2,10101215,GRADED GRAVELED,NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,No,No,0 to 5 kilometes,No
+3,10101219,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,Yes,NO,,Yes,No,No,Yes,,No
+4,10101355,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,,No,No,No,No,11 to 15 kilometers,No
+5,10101374,GRADED GRAVELED,YES,Yes,No,No,Yes,No,NO,,Yes,No,No,No,11 to 15 kilometers,No
+6,10101470,GRADED GRAVELED,YES,No,No,No,No,No,NO,,No,No,Yes,No,0 to 5 kilometes,No
+7,10101562,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,5 and above kilometers,Yes,No,No,Yes,,No
+8,10101568,GRADED GRAVELED,NO,No,No,No,No,No,NO,,No,No,No,No,0 to 5 kilometes,No
+9,10101706,GRADED GRAVELED,YES,No,No,No,No,No,NO,,No,No,No,No,6 to 10 kilometers,No
+10,10102004,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,Above 30 kilometers,No
+11,10102379,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,,No,No,No,No,11 to 15 kilometers,No
+12,10102621,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,16 to 20 kilometers,No
+13,10103414,GRADED GRAVELED,NO,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+14,10103452,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,,Yes,No,No,No,16 to 20 kilometers,No
+15,10103681,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,Under 2 kilometers,No,No,No,No,16 to 20 kilometers,No
+16,10104150,GRADED GRAVELED,YES,No,No,No,No,No,NO,,No,No,Yes,No,21 to 25 kilometers,No
+17,10104351,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,,No,No,No,No,11 to 15 kilometers,No
+18,10104440,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,,No,No,No,No,0 to 5 kilometes,No
+19,10105352,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,No,No,No,No,0 to 5 kilometes,No
+20,10105511,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,No,NO,,No,No,No,No,26 to 30 kilometers,No
+21,10105513,GRADED GRAVELED,YES,No,No,No,No,No,NO,,Yes,No,No,No,0 to 5 kilometes,No
+22,10120286,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,No,No,No,No,0 to 5 kilometes,No
+23,10120288,DIRT TRACK,NO,No,No,No,No,No,NO,3 to 5 kilometers,Yes,Yes,No,No,0 to 5 kilometes,No
+24,10201137,TAR/ASPHALT,YES,Yes,No,No,Yes,No,NO,,Yes,No,Yes,No,0 to 5 kilometes,No
+25,10201210,DIRT TRACK,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+26,10201247,GRADED GRAVELED,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,6 to 10 kilometers,No
+27,10201442,DIRT TRACK,NO,No,No,No,No,No,NO,,Yes,No,No,No,11 to 15 kilometers,No
+28,10201688,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,,No,No,No,No,0 to 5 kilometes,No
+29,10202195,DIRT TRACK,NO,No,No,No,No,No,NO,,No,No,No,No,0 to 5 kilometes,No
+30,10202514,DIRT TRACK,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+31,10203013,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,11 to 15 kilometers,No
+32,10203085,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,,Yes,No,No,No,6 to 10 kilometers,No
+33,10203176,GRADED GRAVELED,YES,No,No,No,No,No,NO,,No,No,No,No,0 to 5 kilometes,No
+34,10203221,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,,Yes,No,No,No,6 to 10 kilometers,No
+35,10203623,DIRT TRACK,NO,No,No,No,No,No,NO,5 and above kilometers,No,No,No,No,Above 30 kilometers,No
+36,10203744,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,5 and above kilometers,Yes,Yes,No,No,11 to 15 kilometers,No
+37,10204101,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+38,10204322,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+39,10204453,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+40,10204586,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,,Yes,No,Yes,Yes,,No
+41,10204723,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,,Yes,No,Yes,Yes,,No
+42,10205202,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,21 to 25 kilometers,No
+43,10205507,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,,Yes,No,No,No,11 to 15 kilometers,No
+44,10220027,TAR/ASPHALT,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+45,10220103,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+46,10220521,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+47,10220705,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+48,10301026,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,YES,3 to 5 kilometers,Yes,No,Yes,No,26 to 30 kilometers,No
+49,10301306,TAR/ASPHALT,YES,Yes,No,No,No,No,YES,Under 2 kilometers,No,No,Yes,No,11 to 15 kilometers,No
+50,10301347,GRADED GRAVELED,YES,No,No,No,No,No,NO,Under 2 kilometers,No,Yes,Yes,Yes,,No
+51,10301663,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,Yes,Yes,No,6 to 10 kilometers,No
+52,10301741,GRADED GRAVELED,YES,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+53,10302010,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+54,10303454,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+55,10304012,GRADED GRAVELED,NO,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+56,10304360,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+57,10304625,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+58,10305446,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,NO,Under 2 kilometers,No,No,Yes,Yes,,No
+59,10306417,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,16 to 20 kilometers,No
+60,10306431,GRADED GRAVELED,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,16 to 20 kilometers,No
+61,10307413,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+62,10308129,TAR/ASPHALT,YES,Yes,No,Yes,No,No,YES,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+63,10308636,GRADED GRAVELED,NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,11 to 15 kilometers,No
+64,10309273,DIRT TRACK,NO,No,No,No,No,No,NO,3 to 5 kilometers,No,No,No,No,11 to 15 kilometers,No
+65,10309281,DIRT ROAD (MAINTAINED),NO,Yes,No,No,No,Yes,NO,Under 2 kilometers,No,No,Yes,Yes,,No
+66,10310469,GRADED GRAVELED,YES,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,No,26 to 30 kilometers,No
+67,10312048,TAR/ASPHALT,YES,Yes,No,Yes,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+68,10312078,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+69,10312187,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+70,10312600,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,16 to 20 kilometers,No
+71,10320227,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,Yes
+72,10401140,GRADED GRAVELED,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,No,No,Yes,Yes,,No
+73,10401212,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,11 to 15 kilometers,No
+74,10401424,GRADED GRAVELED,YES,Yes,No,Yes,No,No,YES,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+75,10401502,GRADED GRAVELED,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,Yes,No,No,0 to 5 kilometes,No
+76,10401522,GRADED GRAVELED,YES,Yes,No,No,Yes,No,NO,3 to 5 kilometers,No,No,Yes,No,26 to 30 kilometers,No
+77,10401541,GRADED GRAVELED,YES,Yes,No,No,Yes,No,YES,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+78,10401604,GRADED GRAVELED,NO,No,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+79,10401635,GRADED GRAVELED,YES,Yes,No,Yes,No,No,NO,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+80,10401742,GRADED GRAVELED,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,16 to 20 kilometers,No
+81,10402537,GRADED GRAVELED,YES,Yes,No,Yes,Yes,Yes,NO,Under 2 kilometers,No,No,Yes,No,Above 30 kilometers,No
+82,10403332,GRADED GRAVELED,YES,Yes,No,Yes,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+83,10403488,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+84,10404186,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+85,10404707,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+86,10405213,GRADED GRAVELED,YES,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+87,10405404,GRADED GRAVELED,YES,Yes,No,Yes,No,Yes,YES,Under 2 kilometers,No,No,Yes,Yes,,Yes
+88,10407068,GRADED GRAVELED,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+89,10407194,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,No,No,Yes,Yes,,No
+90,10407628,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+91,10408441,GRADED GRAVELED,YES,No,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+92,10409468,GRADED GRAVELED,YES,No,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+93,10420001,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,5 and above kilometers,No,Yes,Yes,Yes,,Yes
+94,10420035,TAR/ASPHALT,YES,Yes,Yes,No,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+95,10420080,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,No,Yes,Yes,Yes,,Yes
+96,10501055,GRADED GRAVELED,YES,Yes,No,Yes,No,No,NO,5 and above kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+97,10501216,GRADED GRAVELED,NO,Yes,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+98,10501505,GRADED GRAVELED,YES,No,No,No,Yes,No,NO,Under 2 kilometers,Yes,Yes,Yes,Yes,,No
+99,10501709,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,In the community,No,No,Yes,No,6 to 10 kilometers,No
+100,10502043,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,26 to 30 kilometers,No
+101,10502268,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,5 and above kilometers,No,No,Yes,No,11 to 15 kilometers,No
+102,10502439,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+103,10502593,GRADED GRAVELED,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,6 to 10 kilometers,No
+104,10502730,DIRT TRACK,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,16 to 20 kilometers,No
+105,10503211,GRADED GRAVELED,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+106,10503367,DIRT TRACK,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,6 to 10 kilometers,No
+107,10505136,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,5 and above kilometers,No,No,Yes,No,0 to 5 kilometes,No
+108,10505151,GRADED GRAVELED,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,26 to 30 kilometers,No
+109,10505231,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,No,YES,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+110,10505310,DIRT TRACK,YES,No,No,No,No,No,NO,5 and above kilometers,No,No,Yes,No,11 to 15 kilometers,No
+111,10505508,GRADED GRAVELED,YES,Yes,No,No,Yes,No,NO,5 and above kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+112,10506127,GRADED GRAVELED,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+113,10506548,GRADED GRAVELED,YES,Yes,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,Above 30 kilometers,No
+114,10507175,GRADED GRAVELED,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,11 to 15 kilometers,No
+115,10507344,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,No,NO,3 to 5 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+116,10508369,TAR/ASPHALT,YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+117,10509319,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,In the community,Yes,No,No,No,6 to 10 kilometers,No
+118,10509474,GRADED GRAVELED,NO,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+119,10510388,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,Yes,,No
+120,10732047,GRADED GRAVELED,YES,Yes,No,Yes,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+121,10732070,GRADED GRAVELED,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+122,10732192,TAR/ASPHALT,YES,Yes,Yes,No,No,No,NO,Under 2 kilometers,No,No,No,No,0 to 5 kilometes,No
+123,10733465,GRADED GRAVELED,YES,Yes,No,Yes,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+124,10733640,GRADED GRAVELED,NO,No,Yes,Yes,Yes,No,YES,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+125,10734370,GRADED GRAVELED,NO,No,Yes,Yes,No,No,NO,Under 2 kilometers,Yes,Yes,No,No,0 to 5 kilometes,No
+126,10734393,DIRT TRACK,YES,No,Yes,Yes,No,No,NO,Under 2 kilometers,Yes,Yes,No,No,0 to 5 kilometes,No
+127,10734407,GRADED GRAVELED,YES,No,Yes,Yes,No,No,YES,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+128,10734762,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,No,No,YES,3 to 5 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+129,10735130,GRADED GRAVELED,YES,No,Yes,No,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,No
+130,10735173,TAR/ASPHALT,YES,Yes,Yes,Yes,No,No,YES,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+131,10736053,GRADED GRAVELED,YES,No,No,Yes,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+132,10736174,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,NO,5 and above kilometers,Yes,No,No,Yes,,No
+133,10736377,GRADED GRAVELED,YES,No,Yes,Yes,No,Yes,NO,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+134,10736466,GRADED GRAVELED,YES,No,Yes,Yes,No,No,NO,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+135,10736596,DIRT TRACK,YES,Yes,Yes,Yes,No,No,NO,5 and above kilometers,No,No,Yes,No,0 to 5 kilometes,No
+136,10737199,GRADED GRAVELED,YES,Yes,No,Yes,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+137,10739309,GRADED GRAVELED,YES,No,Yes,No,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+138,10741504,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,No,No,YES,3 to 5 kilometers,No,Yes,Yes,No,0 to 5 kilometes,No
+139,10744039,GRADED GRAVELED,YES,No,Yes,No,No,No,NO,3 to 5 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+140,10744154,GRADED GRAVELED,NO,No,No,Yes,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+141,10744649,GRADED GRAVELED,YES,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+142,10746033,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+143,10746244,TAR/ASPHALT,YES,No,Yes,No,No,No,NO,3 to 5 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+144,20101014,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,,No,No,Yes,No,11 to 15 kilometers,No
+145,20101387,TAR/ASPHALT,YES,Yes,No,No,No,No,YES,Under 2 kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+146,20102311,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+147,20103365,DIRT TRACK,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,6 to 10 kilometers,No
+148,20105073,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,In the community,No,No,Yes,No,0 to 5 kilometes,No
+149,20105181,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,No,No,YES,In the community,No,No,Yes,No,0 to 5 kilometes,No
+150,20106042,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+151,20107490,DIRT TRACK,NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,No,No,0 to 5 kilometes,No
+152,20107615,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,No,NO,In the community,Yes,No,Yes,Yes,,No
+153,20108739,DIRT TRACK,NO,No,No,No,No,No,NO,5 and above kilometers,No,No,Yes,No,26 to 30 kilometers,No
+154,20109486,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,No,NO,In the community,No,No,Yes,No,11 to 15 kilometers,No
+155,20109653,DIRT TRACK,NO,No,No,No,No,No,NO,In the community,No,No,Yes,Yes,,No
+156,20110170,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+157,20110620,DIRT TRACK,NO,No,No,No,Yes,No,NO,In the community,Yes,No,Yes,No,6 to 10 kilometers,No
+158,20111107,DIRT TRACK,NO,No,No,No,No,No,NO,In the community,Yes,No,Yes,No,0 to 5 kilometes,No
+159,20111530,DIRT TRACK,NO,No,No,Yes,Yes,No,NO,In the community,No,No,Yes,No,11 to 15 kilometers,No
+160,20111718,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,YES,In the community,No,No,Yes,No,6 to 10 kilometers,No
+161,20112290,DIRT TRACK,NO,No,No,Yes,No,No,NO,In the community,No,No,Yes,No,6 to 10 kilometers,No
+162,20112334,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,YES,In the community,No,No,Yes,No,11 to 15 kilometers,No
+163,20112661,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,YES,In the community,No,Yes,Yes,No,21 to 25 kilometers,No
+164,20113112,DIRT ROAD (MAINTAINED),NO,No,No,No,Yes,No,NO,Under 2 kilometers,No,No,Yes,Yes,,No
+165,20113529,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+166,20115434,DIRT TRACK,YES,No,No,No,No,No,YES,Under 2 kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+167,20120081,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,YES,In the community,Yes,No,Yes,No,0 to 5 kilometes,No
+168,20201109,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,,No,No,Yes,No,6 to 10 kilometers,No
+169,20201206,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,3 to 5 kilometers,No,No,Yes,No,26 to 30 kilometers,No
+170,20201264,DIRT ROAD (MAINTAINED),NO,No,No,Yes,No,No,NO,,Yes,No,Yes,Yes,,Yes
+171,20201269,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+172,20201354,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,No,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+173,20201450,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,NO,Under 2 kilometers,Yes,No,Yes,Yes,,Yes
+174,20201646,TAR/ASPHALT,YES,Yes,No,No,Yes,Yes,YES,In the community,Yes,No,Yes,Yes,,No
+175,20202343,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,NO,,Yes,No,Yes,Yes,,No
+176,20203135,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,No,YES,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+177,20203494,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,No,NO,3 to 5 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+178,20203656,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+179,20203694,DIRT ROAD (MAINTAINED),NO,No,No,No,Yes,Yes,NO,,Yes,No,Yes,Yes,,No
+180,20204124,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,,Yes,Yes,Yes,Yes,,No
+181,20204712,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,Yes,NO,3 to 5 kilometers,No,No,Yes,No,11 to 15 kilometers,No
+182,20205207,TAR/ASPHALT,YES,Yes,No,No,Yes,Yes,NO,Under 2 kilometers,No,No,Yes,Yes,,No
+183,20205484,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+184,20205525,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,,Yes,No,Yes,No,16 to 20 kilometers,No
+185,20205634,TAR/ASPHALT,YES,Yes,No,Yes,No,No,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+186,20205700,DIRT ROAD (MAINTAINED),NO,No,No,Yes,No,No,NO,3 to 5 kilometers,No,No,Yes,Yes,,No
+187,20205721,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+188,20206243,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+189,20206362,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+190,20220038,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+191,20220153,TAR/ASPHALT,YES,Yes,No,Yes,No,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,Yes
+192,20301075,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,No,NO,,Yes,No,Yes,Yes,,No
+193,20302432,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,No,YES,,Yes,No,Yes,Yes,,No
+194,20302539,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,Yes,NO,Under 2 kilometers,No,No,Yes,Yes,,No
+195,20302592,DIRT ROAD (MAINTAINED),NO,Yes,No,No,No,No,YES,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+196,20303065,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+197,20303447,DIRT ROAD (MAINTAINED),NO,No,No,Yes,Yes,No,YES,,Yes,No,Yes,Yes,,No
+198,20303654,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,,Yes,No,Yes,No,6 to 10 kilometers,No
+199,20304084,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+200,20304164,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+201,20304285,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,Yes,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+202,20304314,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+203,20304662,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,26 to 30 kilometers,No
+204,20304680,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,NO,Under 2 kilometers,No,No,Yes,Yes,,No
+205,20305023,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+206,20305172,DIRT ROAD (MAINTAINED),NO,Yes,No,No,Yes,Yes,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+207,20305301,TAR/ASPHALT,YES,Yes,No,No,Yes,Yes,NO,,Yes,No,Yes,No,11 to 15 kilometers,No
+208,20305340,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,NO,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+209,20305382,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+210,20305717,TAR/ASPHALT,YES,Yes,No,No,Yes,No,NO,3 to 5 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+211,20306272,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,Yes,YES,3 to 5 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+212,20306296,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,Yes,NO,Under 2 kilometers,No,No,Yes,Yes,,No
+213,20306433,DIRT ROAD (MAINTAINED),NO,No,No,No,Yes,Yes,NO,,No,No,Yes,No,6 to 10 kilometers,No
+214,20306557,DIRT ROAD (MAINTAINED),NO,No,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+215,20320675,TAR/ASPHALT,NO,No,No,Yes,No,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,Yes
+216,20401171,DIRT TRACK,NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+217,20401627,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,No,No,NO,In the community,Yes,No,Yes,No,11 to 15 kilometers,No
+218,20401737,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,,Yes,No,Yes,No,0 to 5 kilometes,No
+219,20402045,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,Yes
+220,20402072,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,In the community,Yes,No,Yes,Yes,,Yes
+221,20402198,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,YES,In the community,No,No,Yes,No,6 to 10 kilometers,No
+222,20402201,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,YES,In the community,No,No,Yes,No,0 to 5 kilometes,No
+223,20402298,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,No,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+224,20403049,DIRT TRACK,NO,No,No,No,No,No,NO,In the community,No,No,Yes,No,0 to 5 kilometes,No
+225,20403668,DIRT TRACK,NO,No,No,No,Yes,No,YES,,Yes,No,Yes,No,0 to 5 kilometes,No
+226,20403697,DIRT TRACK,NO,No,No,No,No,No,NO,In the community,Yes,No,No,No,0 to 5 kilometes,No
+227,20404032,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,YES,In the community,No,No,Yes,No,6 to 10 kilometers,No
+228,20404509,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,In the community,No,No,Yes,No,0 to 5 kilometes,No
+229,20404575,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,YES,In the community,No,No,Yes,No,6 to 10 kilometers,No
+230,20404660,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,In the community,Yes,No,Yes,No,11 to 15 kilometers,No
+231,20405132,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+232,20405366,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,YES,In the community,No,No,Yes,No,6 to 10 kilometers,No
+233,20405704,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,In the community,Yes,No,Yes,No,0 to 5 kilometes,No
+234,20406177,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,No,YES,In the community,No,No,Yes,No,0 to 5 kilometes,No
+235,20406348,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+236,20406598,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,YES,In the community,Yes,No,Yes,No,6 to 10 kilometers,No
+237,20407398,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,YES,In the community,No,No,Yes,No,6 to 10 kilometers,No
+238,20407481,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,In the community,Yes,No,Yes,Yes,,Yes
+239,20421229,TAR/ASPHALT,YES,Yes,No,Yes,No,Yes,YES,In the community,No,Yes,Yes,Yes,,Yes
+240,20501111,GRADED GRAVELED,YES,Yes,No,No,No,No,YES,3 to 5 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+241,20501330,TAR/ASPHALT,YES,Yes,No,No,No,No,YES,3 to 5 kilometers,Yes,No,Yes,Yes,,Yes
+242,20501664,GRADED GRAVELED,NO,No,No,No,No,No,NO,3 to 5 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+243,20502159,GRADED GRAVELED,YES,Yes,No,No,No,No,YES,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+244,20502240,DIRT TRACK,NO,No,No,No,No,No,NO,3 to 5 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+245,20502740,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,11 to 15 kilometers,No
+246,20502758,GRADED GRAVELED,NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+247,20503239,TAR/ASPHALT,YES,No,No,Yes,No,No,NO,3 to 5 kilometers,Yes,No,No,No,11 to 15 kilometers,No
+248,20503476,GRADED GRAVELED,YES,No,No,Yes,No,No,YES,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+249,20504373,GRADED GRAVELED,YES,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+250,20504729,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,3 to 5 kilometers,No,No,Yes,No,11 to 15 kilometers,No
+251,20505317,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+252,20505648,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,No,No,YES,3 to 5 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+253,20506412,GRADED GRAVELED,NO,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+254,20507089,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,YES,3 to 5 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+255,20507371,GRADED GRAVELED,NO,Yes,No,No,Yes,No,NO,5 and above kilometers,No,No,Yes,No,11 to 15 kilometers,No
+256,20507422,GRADED GRAVELED,YES,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+257,20507459,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+258,20507571,GRADED GRAVELED,YES,Yes,No,No,Yes,No,YES,Under 2 kilometers,No,No,Yes,Yes,,No
+259,20508349,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,No
+260,20508547,GRADED GRAVELED,NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,Yes,,No
+261,20510584,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+262,20520255,GRADED GRAVELED,YES,Yes,Yes,Yes,No,Yes,YES,Under 2 kilometers,No,Yes,Yes,No,6 to 10 kilometers,Yes
+263,20520582,TAR/ASPHALT,YES,Yes,No,No,No,No,YES,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+264,20601141,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+265,20601626,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+266,20601658,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,NO,,Yes,No,Yes,No,6 to 10 kilometers,No
+267,20601701,GRADED GRAVELED,YES,No,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+268,20602363,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+269,20602479,GRADED GRAVELED,YES,No,No,No,No,Yes,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+270,20602607,DIRT TRACK,YES,Yes,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+271,20602617,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+272,20603090,DIRT ROAD (MAINTAINED),NO,No,Yes,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+273,20603121,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,16 to 20 kilometers,No
+274,20603133,GRADED GRAVELED,YES,No,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,16 to 20 kilometers,No
+275,20603189,GRADED GRAVELED,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+276,20603337,DIRT TRACK,NO,No,Yes,No,Yes,No,NO,Under 2 kilometers,Yes,No,No,No,11 to 15 kilometers,No
+277,20603455,GRADED GRAVELED,YES,No,Yes,No,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+278,20603533,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,Yes
+279,20604071,GRADED GRAVELED,YES,No,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+280,20604376,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,No
+281,20604638,DIRT ROAD (MAINTAINED),YES,Yes,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+282,20605302,DIRT ROAD (MAINTAINED),NO,No,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+283,20606168,GRADED GRAVELED,YES,Yes,Yes,No,No,No,NO,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+284,20606297,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,Yes,Yes,NO,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+285,20607260,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,NO,3 to 5 kilometers,Yes,No,No,Yes,,No
+286,20607315,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+287,20607733,TAR/ASPHALT,YES,No,Yes,No,No,No,YES,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+288,20608499,DIRT ROAD (MAINTAINED),YES,Yes,Yes,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,Above 30 kilometers,No
+289,20609754,GRADED GRAVELED,YES,No,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+290,20610050,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,Yes,YES,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+291,20610249,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+292,20611336,GRADED GRAVELED,NO,Yes,Yes,Yes,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+293,20612564,DIRT TRACK,YES,No,Yes,No,No,No,YES,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+294,20613324,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+295,20614477,TAR/ASPHALT,YES,Yes,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+296,20614589,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+297,20615064,DIRT TRACK,YES,Yes,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,No,Yes,,No
+298,20615735,DIRT TRACK,YES,Yes,Yes,No,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+299,20615752,TAR/ASPHALT,YES,No,Yes,No,No,No,YES,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+300,20701527,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+301,20701659,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,,Yes,No,Yes,No,11 to 15 kilometers,No
+302,20702011,TAR/ASPHALT,YES,Yes,No,No,Yes,No,YES,5 and above kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+303,20702282,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,YES,3 to 5 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+304,20702464,DIRT TRACK,NO,No,No,No,No,No,YES,In the community,Yes,No,Yes,No,6 to 10 kilometers,No
+305,20702471,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,No,YES,In the community,Yes,No,Yes,Yes,,No
+306,20702542,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,YES,In the community,Yes,No,Yes,No,6 to 10 kilometers,No
+307,20703025,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+308,20703083,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+309,20703316,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,No,NO,5 and above kilometers,Yes,Yes,Yes,Yes,,No
+310,20703565,DIRT ROAD (MAINTAINED),NO,No,No,No,Yes,No,NO,3 to 5 kilometers,Yes,No,Yes,No,,No
+311,20703595,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+312,20704037,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,YES,In the community,Yes,No,Yes,No,0 to 5 kilometes,No
+313,20704289,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,YES,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+314,20704353,DIRT TRACK,YES,No,No,No,No,No,YES,3 to 5 kilometers,No,No,Yes,No,16 to 20 kilometers,No
+315,20704738,DIRT TRACK,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,11 to 15 kilometers,No
+316,20705328,DIRT ROAD (MAINTAINED),NO,No,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+317,20705372,DIRT TRACK,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,6 to 10 kilometers,No
+318,20705495,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,Yes,YES,In the community,Yes,No,Yes,Yes,,No
+319,20705652,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,YES,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+320,20705657,GRADED GRAVELED,YES,Yes,No,Yes,Yes,No,YES,In the community,Yes,No,Yes,Yes,,No
+321,20706163,DIRT ROAD (MAINTAINED),NO,No,No,Yes,Yes,Yes,YES,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+322,20706294,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,3 to 5 kilometers,Yes,Yes,Yes,Yes,,No
+323,20720368,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,No,No,YES,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+324,20801046,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+325,20801208,DIRT ROAD (MAINTAINED),NO,Yes,No,No,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+326,20801271,GRADED GRAVELED,NO,No,No,No,Yes,No,NO,Under 2 kilometers,No,No,Yes,Yes,,No
+327,20801356,GRADED GRAVELED,NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+328,20801497,GRADED GRAVELED,YES,Yes,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,No,Yes,,No
+329,20802019,DIRT ROAD (MAINTAINED),NO,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+330,20802041,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,11 to 15 kilometers,No
+331,20802501,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,No,YES,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+332,20803155,GRADED GRAVELED,YES,No,No,No,No,No,NO,3 to 5 kilometers,No,No,Yes,No,11 to 15 kilometers,No
+333,20803156,GRADED GRAVELED,YES,No,No,No,No,No,NO,3 to 5 kilometers,No,No,Yes,No,26 to 30 kilometers,No
+334,20803503,GRADED GRAVELED,YES,Yes,No,No,Yes,No,NO,In the community,Yes,No,Yes,No,6 to 10 kilometers,No
+335,20803599,GRADED GRAVELED,YES,Yes,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+336,20803731,TAR/ASPHALT,YES,Yes,Yes,No,No,No,NO,5 and above kilometers,Yes,Yes,No,No,6 to 10 kilometers,No
+337,20804405,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+338,20804768,GRADED GRAVELED,YES,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+339,20805345,GRADED GRAVELED,NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+340,20806131,DIRT ROAD (MAINTAINED),NO,Yes,No,No,Yes,No,YES,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+341,20806546,GRADED GRAVELED,YES,Yes,No,No,No,No,YES,Under 2 kilometers,No,No,No,No,6 to 10 kilometers,No
+342,20806716,GRADED GRAVELED,YES,Yes,No,No,No,No,YES,5 and above kilometers,No,No,Yes,Yes,,No
+343,20807711,GRADED GRAVELED,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+344,20807727,TAR/ASPHALT,YES,Yes,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+345,20807728,GRADED GRAVELED,YES,No,No,No,No,No,NO,Under 2 kilometers,,No,Yes,No,11 to 15 kilometers,No
+346,20808421,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,Yes,,Yes
+347,20820318,GRADED GRAVELED,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+348,20901232,GRADED GRAVELED,YES,Yes,No,Yes,Yes,Yes,YES,5 and above kilometers,Yes,No,Yes,Yes,,No
+349,20901276,GRADED GRAVELED,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+350,20902437,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,No,YES,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+351,20902449,TAR/ASPHALT,YES,Yes,No,No,No,No,YES,5 and above kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+352,20902461,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+353,20903543,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+354,20903583,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+355,20904018,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+356,20904160,TAR/ASPHALT,YES,Yes,No,No,Yes,Yes,YES,3 to 5 kilometers,Yes,No,No,Yes,,No
+357,20904342,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+358,20904602,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+359,20905295,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+360,20906110,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+361,20906524,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+362,20906605,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+363,20907238,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+364,20908051,DIRT ROAD (MAINTAINED),YES,No,No,Yes,No,No,NO,5 and above kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+365,20908088,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+366,20908119,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,Yes,NO,Under 2 kilometers,Yes,No,No,Yes,,No
+367,20908293,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+368,20908329,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,No,NO,Under 2 kilometers,No,No,Yes,No,11 to 15 kilometers,No
+369,20908538,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+370,20909113,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+371,20920520,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,3 to 5 kilometers,Yes,No,Yes,Yes,,Yes
+372,21031643,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,In the community,Yes,Yes,Yes,No,0 to 5 kilometes,No
+373,21037030,DIRT ROAD (MAINTAINED),YES,No,Yes,Yes,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+374,21037224,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,Yes,YES,In the community,Yes,Yes,Yes,Yes,,No
+375,21037536,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,No,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,No
+376,21038392,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,In the community,Yes,Yes,Yes,No,0 to 5 kilometes,No
+377,21038763,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,In the community,Yes,Yes,Yes,No,0 to 5 kilometes,Yes
+378,21048764,TAR/ASPHALT,YES,Yes,Yes,No,No,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+379,21051203,TAR/ASPHALT,YES,Yes,Yes,Yes,No,No,YES,In the community,Yes,Yes,Yes,No,0 to 5 kilometes,No
+380,21051517,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,In the community,Yes,Yes,Yes,No,0 to 5 kilometes,No
+381,21052427,GRADED GRAVELED,YES,Yes,Yes,Yes,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+382,21052642,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,In the community,Yes,Yes,Yes,No,0 to 5 kilometes,No
+383,21053430,DIRT ROAD (MAINTAINED),YES,No,Yes,Yes,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+384,21053745,DIRT ROAD (MAINTAINED),YES,Yes,Yes,No,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+385,21054673,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,Yes,No,YES,3 to 5 kilometers,No,Yes,Yes,No,11 to 15 kilometers,No
+386,21055165,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,In the community,Yes,Yes,Yes,No,0 to 5 kilometes,No
+387,21055241,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,YES,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+388,21055693,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+389,21056222,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,YES,3 to 5 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+390,21066096,TAR/ASPHALT,YES,Yes,Yes,Yes,No,No,YES,In the community,Yes,Yes,Yes,No,0 to 5 kilometes,No
+391,21066339,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,0 to 5 kilometes,No
+392,21066478,DIRT TRACK,NO,No,Yes,Yes,Yes,No,YES,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+393,21069400,TAR/ASPHALT,YES,Yes,Yes,Yes,No,No,YES,In the community,Yes,Yes,Yes,No,6 to 10 kilometers,Yes
+394,21074510,DIRT ROAD (MAINTAINED),YES,Yes,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+395,21077725,TAR/ASPHALT,YES,Yes,Yes,No,No,No,YES,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+396,21079006,DIRT ROAD (MAINTAINED),YES,No,Yes,Yes,No,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+397,21080308,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,No,No,YES,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+398,21080755,DIRT TRACK,YES,Yes,Yes,Yes,Yes,No,YES,In the community,Yes,No,Yes,No,16 to 20 kilometers,No
+399,21081573,DIRT TRACK,NO,No,Yes,Yes,No,No,YES,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+400,21083535,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,Yes,YES,In the community,Yes,No,Yes,Yes,,Yes
+401,21085094,GRADED GRAVELED,YES,No,No,No,No,No,YES,In the community,Yes,No,Yes,No,6 to 10 kilometers,No
+402,21086069,TAR/ASPHALT,YES,Yes,Yes,Yes,No,No,YES,In the community,Yes,Yes,Yes,No,6 to 10 kilometers,No
+403,21086436,DIRT ROAD (MAINTAINED),YES,Yes,Yes,No,No,No,YES,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+404,21087057,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,In the community,Yes,Yes,Yes,Yes,,No
+405,21087531,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,Yes,No,YES,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+406,21087736,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,In the community,Yes,Yes,Yes,No,0 to 5 kilometes,No
+407,21088597,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+408,30101280,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,YES,In the community,Yes,No,No,No,Above 30 kilometers,No
+409,30101545,DIRT ROAD (MAINTAINED),NO,Yes,No,Yes,Yes,Yes,YES,3 to 5 kilometers,Yes,No,Yes,No,16 to 20 kilometers,No
+410,30101552,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,,Yes,No,Yes,No,0 to 5 kilometes,No
+411,30102028,GRADED GRAVELED,YES,No,No,No,Yes,No,YES,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+412,30102540,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,,Yes,No,Yes,No,6 to 10 kilometers,No
+413,30102632,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,,No,No,No,Yes,,No
+414,30102641,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,,No,No,Yes,No,11 to 15 kilometers,No
+415,30103021,TAR/ASPHALT,YES,Yes,No,Yes,No,No,NO,,Yes,No,Yes,No,6 to 10 kilometers,No
+416,30103074,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+417,30103420,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+418,30104022,DIRT ROAD (MAINTAINED),YES,No,No,Yes,No,No,NO,,No,No,Yes,No,6 to 10 kilometers,No
+419,30104040,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,No,No,Yes,Yes,,No
+420,30104708,GRADED GRAVELED,YES,No,No,No,Yes,No,YES,Under 2 kilometers,Yes,No,No,No,21 to 25 kilometers,No
+421,30105325,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,YES,,Yes,No,Yes,Yes,,No
+422,30105448,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,5 and above kilometers,No,No,Yes,No,6 to 10 kilometers,No
+423,30106005,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,No,NO,3 to 5 kilometers,No,No,No,No,6 to 10 kilometers,No
+424,30106331,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+425,30106750,GRADED GRAVELED,NO,Yes,No,No,Yes,No,NO,3 to 5 kilometers,No,No,Yes,No,Above 30 kilometers,No
+426,30107395,GRADED GRAVELED,YES,No,No,Yes,No,No,YES,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+427,30107624,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,,No,No,No,No,6 to 10 kilometers,No
+428,30108117,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,No,No,NO,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+429,30108401,GRADED GRAVELED,YES,Yes,No,Yes,Yes,No,NO,5 and above kilometers,Yes,No,Yes,Yes,,No
+430,30109724,GRADED GRAVELED,NO,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,6 to 10 kilometers,No
+431,30120262,TAR/ASPHALT,YES,Yes,No,Yes,No,No,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+432,30201076,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,6 to 10 kilometers,No
+433,30201146,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+434,30201498,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,In the community,No,No,Yes,No,6 to 10 kilometers,No
+435,30201587,GRADED GRAVELED,YES,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+436,30202252,TAR/ASPHALT,YES,Yes,No,No,No,No,YES,5 and above kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+437,30202403,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,No,No,16 to 20 kilometers,No
+438,30203044,GRADED GRAVELED,YES,No,No,Yes,Yes,No,NO,,No,No,No,Yes,,No
+439,30203122,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,3 to 5 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+440,30203142,DIRT ROAD (MAINTAINED),NO,No,No,Yes,Yes,No,NO,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+441,30203256,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,3 to 5 kilometers,Yes,No,No,No,26 to 30 kilometers,Yes
+442,30203767,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,No,No,11 to 15 kilometers,No
+443,30204126,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,,Yes,No,Yes,No,0 to 5 kilometes,No
+444,30205702,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+445,30206341,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,YES,In the community,No,No,Yes,Yes,,Yes
+446,30206572,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+447,30207060,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,3 to 5 kilometers,No,No,No,No,0 to 5 kilometes,No
+448,30207188,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,5 and above kilometers,No,No,Yes,No,26 to 30 kilometers,No
+449,30207491,DIRT ROAD (MAINTAINED),NO,Yes,No,No,No,No,NO,Under 2 kilometers,No,No,No,No,6 to 10 kilometers,No
+450,30208396,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,3 to 5 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+451,30209287,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,,Yes,No,Yes,Yes,,No
+452,30212167,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+453,30212307,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,No,YES,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+454,30212492,DIRT TRACK,NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,Above 30 kilometers,No
+455,30222077,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+456,30301554,DIRT ROAD (MAINTAINED),YES,No,Yes,Yes,Yes,Yes,YES,5 and above kilometers,No,No,Yes,No,0 to 5 kilometes,No
+457,30301576,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,3 to 5 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+458,30301590,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+459,30302283,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,No,No,YES,5 and above kilometers,Yes,No,Yes,Yes,,No
+460,30302357,DIRT ROAD (MAINTAINED),NO,No,Yes,Yes,Yes,No,NO,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+461,30302601,GRADED GRAVELED,NO,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+462,30302687,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,No,No,0 to 5 kilometes,No
+463,30302692,DIRT ROAD (MAINTAINED),NO,No,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+464,30304139,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+465,30304143,DIRT ROAD (MAINTAINED),YES,Yes,Yes,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+466,30305082,DIRT ROAD (MAINTAINED),NO,No,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,No,No,6 to 10 kilometers,No
+467,30305258,DIRT ROAD (MAINTAINED),NO,No,No,No,Yes,No,NO,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+468,30305277,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,Yes,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+469,30305506,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+470,30305561,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,3 to 5 kilometers,No,No,Yes,No,11 to 15 kilometers,No
+471,30305580,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,11 to 15 kilometers,No
+472,30306024,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+473,30306056,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,Yes,,No
+474,30306087,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+475,30306460,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,YES,5 and above kilometers,No,No,No,No,0 to 5 kilometes,No
+476,30306555,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,21 to 25 kilometers,No
+477,30306594,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,YES,3 to 5 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+478,30307577,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+479,30307678,TAR/ASPHALT,YES,Yes,Yes,Yes,No,Yes,YES,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+480,30401015,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,In the community,Yes,No,No,No,Above 30 kilometers,No
+481,30401062,TAR/ASPHALT,YES,Yes,No,Yes,No,Yes,YES,5 and above kilometers,Yes,No,Yes,No,26 to 30 kilometers,No
+482,30401178,GRADED GRAVELED,YES,No,No,Yes,Yes,Yes,YES,In the community,Yes,No,Yes,No,6 to 10 kilometers,No
+483,30401397,GRADED GRAVELED,YES,No,No,Yes,Yes,No,NO,In the community,Yes,No,Yes,Yes,,No
+484,30402291,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,NO,,Yes,No,No,No,Above 30 kilometers,No
+485,30402402,DIRT ROAD (MAINTAINED),NO,No,No,No,No,Yes,NO,5 and above kilometers,Yes,No,Yes,No,16 to 20 kilometers,No
+486,30402515,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,YES,In the community,Yes,No,No,No,6 to 10 kilometers,No
+487,30402570,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,In the community,No,No,Yes,No,0 to 5 kilometes,No
+488,30402669,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,In the community,Yes,No,No,No,6 to 10 kilometers,No
+489,30403185,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,In the community,Yes,No,Yes,No,0 to 5 kilometes,No
+490,30403225,DIRT ROAD (MAINTAINED),NO,Yes,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+491,30403261,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+492,30403444,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,Yes,YES,,Yes,No,Yes,Yes,,No
+493,30403558,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+494,30403699,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,3 to 5 kilometers,No,No,No,No,6 to 10 kilometers,No
+495,30403766,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,In the community,Yes,No,No,No,0 to 5 kilometes,No
+496,30404093,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,In the community,Yes,No,No,Yes,,No
+497,30404458,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,YES,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+498,30404493,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,Yes,YES,In the community,Yes,No,Yes,Yes,,No
+499,30405588,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,In the community,Yes,No,No,No,Above 30 kilometers,No
+500,30406125,DIRT ROAD (MAINTAINED),YES,No,No,Yes,No,No,NO,,No,No,Yes,No,0 to 5 kilometes,No
+501,30406378,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,NO,In the community,Yes,No,No,Yes,,No
+502,30406710,DIRT ROAD (MAINTAINED),NO,No,No,No,Yes,No,NO,3 to 5 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+503,30420223,TAR/ASPHALT,YES,Yes,No,No,No,Yes,YES,In the community,Yes,No,Yes,Yes,,No
+504,30501008,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,In the community,No,No,Yes,No,11 to 15 kilometers,Yes
+505,30501020,GRADED GRAVELED,YES,No,No,No,Yes,No,NO,In the community,No,No,No,No,6 to 10 kilometers,No
+506,30501359,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,11 to 15 kilometers,No
+507,30501383,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+508,30501566,GRADED GRAVELED,NO,No,No,No,No,No,NO,In the community,No,No,No,No,11 to 15 kilometers,No
+509,30502418,DIRT TRACK,NO,No,No,No,Yes,No,NO,In the community,Yes,No,No,Yes,,No
+510,30502456,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,6 to 10 kilometers,No
+511,30503214,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+512,30503292,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,11 to 15 kilometers,No
+513,30503685,DIRT ROAD (MAINTAINED),NO,No,No,Yes,No,No,NO,In the community,No,No,Yes,No,0 to 5 kilometes,No
+514,30504251,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+515,30504518,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,6 to 10 kilometers,No
+516,30505180,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,In the community,Yes,No,No,No,6 to 10 kilometers,No
+517,30506017,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+518,30506031,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,In the community,No,No,Yes,No,0 to 5 kilometes,No
+519,30506105,TAR/ASPHALT,YES,Yes,No,Yes,No,No,NO,In the community,No,No,No,No,6 to 10 kilometers,No
+520,30506326,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,In the community,No,Yes,Yes,Yes,,No
+521,30506457,DIRT ROAD (MAINTAINED),NO,Yes,No,Yes,No,No,NO,,Yes,No,No,No,6 to 10 kilometers,No
+522,30506748,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,NO,3 to 5 kilometers,Yes,Yes,No,No,6 to 10 kilometers,No
+523,30507667,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,NO,In the community,Yes,No,Yes,No,11 to 15 kilometers,No
+524,30508364,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,YES,In the community,Yes,No,Yes,No,0 to 5 kilometes,No
+525,30508435,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,11 to 15 kilometers,No
+526,30508473,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,11 to 15 kilometers,No
+527,30508629,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,6 to 10 kilometers,No
+528,30601052,GRADED GRAVELED,YES,No,No,No,No,No,NO,3 to 5 kilometers,No,No,No,No,6 to 10 kilometers,No
+529,30601144,GRADED GRAVELED,YES,No,No,Yes,No,No,NO,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+530,30601190,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+531,30601191,GRADED GRAVELED,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,Above 30 kilometers,No
+532,30601428,GRADED GRAVELED,YES,No,No,No,No,No,NO,Under 2 kilometers,No,No,No,No,16 to 20 kilometers,No
+533,30601526,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,11 to 15 kilometers,No
+534,30601608,GRADED GRAVELED,YES,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+535,30601639,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,No,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+536,30601746,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+537,30602059,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+538,30602217,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,,Yes,No,Yes,No,11 to 15 kilometers,No
+539,30602220,GRADED GRAVELED,YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,26 to 30 kilometers,No
+540,30602235,DIRT ROAD (MAINTAINED),YES,No,No,No,No,Yes,YES,3 to 5 kilometers,Yes,No,No,Yes,,No
+541,30602408,GRADED GRAVELED,YES,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,No,No,Above 30 kilometers,No
+542,30602443,GRADED GRAVELED,YES,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,26 to 30 kilometers,No
+543,30602445,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,5 and above kilometers,Yes,Yes,Yes,No,6 to 10 kilometers,No
+544,30602472,GRADED GRAVELED,YES,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+545,30602512,GRADED GRAVELED,YES,No,No,No,No,Yes,NO,5 and above kilometers,Yes,No,No,No,0 to 5 kilometes,No
+546,30602713,GRADED GRAVELED,NO,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,16 to 20 kilometers,No
+547,30602734,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+548,30620179,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+549,30620196,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+550,30620323,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+551,30620644,GRADED GRAVELED,YES,Yes,Yes,No,No,No,NO,5 and above kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+552,30701411,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,No,Yes,YES,Under 2 kilometers,No,No,Yes,Yes,,Yes
+553,30702134,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,3 to 5 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+554,30703381,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,No,YES,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+555,30704158,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,No,16 to 20 kilometers,No
+556,30704313,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,5 and above kilometers,No,No,Yes,No,16 to 20 kilometers,No
+557,30705248,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,YES,5 and above kilometers,No,No,Yes,No,11 to 15 kilometers,No
+558,30705391,GRADED GRAVELED,YES,No,No,No,No,No,YES,3 to 5 kilometers,Yes,Yes,Yes,Yes,,No
+559,30706619,GRADED GRAVELED,NO,No,No,No,No,No,NO,5 and above kilometers,No,No,Yes,No,6 to 10 kilometers,No
+560,30706743,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,No,YES,3 to 5 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+561,30707534,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,YES,Under 2 kilometers,No,No,Yes,No,16 to 20 kilometers,No
+562,30707722,GRADED GRAVELED,YES,No,No,Yes,Yes,Yes,YES,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+563,30708338,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+564,30708665,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+565,30709116,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,3 to 5 kilometers,No,No,Yes,Yes,,No
+566,30709358,DIRT ROAD (MAINTAINED),NO,No,No,No,Yes,No,YES,5 and above kilometers,No,No,Yes,No,11 to 15 kilometers,No
+567,30709438,DIRT ROAD (MAINTAINED),NO,Yes,No,No,Yes,No,YES,Under 2 kilometers,No,No,Yes,Yes,,No
+568,30709650,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,NO,3 to 5 kilometers,Yes,Yes,Yes,Yes,,No
+569,30709698,TAR/ASPHALT,YES,No,No,No,No,No,YES,,Yes,No,Yes,Yes,,No
+570,30710079,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,YES,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+571,30710128,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+572,30710157,DIRT ROAD (MAINTAINED),NO,No,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+573,30710451,GRADED GRAVELED,YES,No,No,No,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,No
+574,30711684,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+575,30720666,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+576,30801205,GRADED GRAVELED,YES,No,No,No,No,No,NO,,Yes,No,No,No,26 to 30 kilometers,No
+577,30801300,TAR/ASPHALT,YES,Yes,No,No,Yes,Yes,NO,5 and above kilometers,Yes,No,No,Yes,,No
+578,30801305,DIRT TRACK,YES,No,No,No,No,No,NO,,Yes,No,No,No,6 to 10 kilometers,No
+579,30801386,DIRT TRACK,NO,No,No,No,No,No,NO,,Yes,No,No,No,0 to 5 kilometes,No
+580,30801631,DIRT TRACK,NO,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+581,30801672,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+582,30801679,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,6 to 10 kilometers,No
+583,30802036,GRADED GRAVELED,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,26 to 30 kilometers,No
+584,30802485,DIRT TRACK,NO,No,No,No,No,No,NO,,Yes,No,No,No,6 to 10 kilometers,No
+585,30802579,DIRT TRACK,NO,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+586,30803115,GRADED GRAVELED,YES,No,No,No,No,No,NO,,Yes,No,Yes,No,6 to 10 kilometers,No
+587,30803233,GRADED GRAVELED,YES,Yes,No,Yes,Yes,Yes,YES,,Yes,No,Yes,Yes,,No
+588,30803321,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,6 to 10 kilometers,No
+589,30803480,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,11 to 15 kilometers,No
+590,30804416,GRADED GRAVELED,YES,Yes,No,Yes,Yes,No,NO,,Yes,No,Yes,Yes,,No
+591,30804426,DIRT TRACK,NO,No,No,No,No,No,NO,,Yes,No,No,No,0 to 5 kilometes,No
+592,30805259,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,NO,5 and above kilometers,Yes,No,No,No,6 to 10 kilometers,No
+593,30805375,DIRT TRACK,NO,No,No,No,No,No,NO,,No,No,No,No,0 to 5 kilometes,No
+594,30805463,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+595,30805551,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+596,30806145,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,3 to 5 kilometers,Yes,No,No,Yes,,No
+597,30806483,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,,Yes,No,Yes,Yes,,No
+598,30806611,GRADED GRAVELED,NO,No,No,No,Yes,No,NO,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+599,30806630,GRADED GRAVELED,YES,No,No,No,Yes,No,NO,,No,No,No,No,6 to 10 kilometers,No
+600,30901029,GRADED GRAVELED,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+601,30901054,GRADED GRAVELED,YES,No,No,No,Yes,No,NO,,Yes,No,No,Yes,,No
+602,30901193,DIRT ROAD (MAINTAINED),NO,No,No,No,Yes,No,NO,,Yes,No,No,No,16 to 20 kilometers,No
+603,30901253,DIRT TRACK,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+604,30901275,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+605,30901320,DIRT TRACK,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+606,30901380,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,,Yes,No,No,No,0 to 5 kilometes,No
+607,30901409,DIRT TRACK,NO,No,No,No,Yes,No,NO,,Yes,No,No,No,6 to 10 kilometers,No
+608,30901475,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,,No,No,No,No,6 to 10 kilometers,No
+609,30901550,GRADED GRAVELED,YES,No,No,No,Yes,Yes,YES,,Yes,No,No,No,16 to 20 kilometers,No
+610,30901569,GRADED GRAVELED,YES,Yes,No,No,Yes,No,NO,,Yes,No,No,Yes,,No
+611,30901603,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,No,NO,,No,No,No,Yes,,No
+612,30901715,DIRT ROAD (MAINTAINED),YES,Yes,No,No,Yes,No,NO,,Yes,No,No,No,0 to 5 kilometes,No
+613,30901720,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+614,30901732,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+615,30901756,DIRT TRACK,NO,No,No,No,No,No,NO,,Yes,No,No,No,0 to 5 kilometes,No
+616,30902236,GRADED GRAVELED,NO,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,6 to 10 kilometers,No
+617,30902299,DIRT TRACK,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+618,30902346,GRADED GRAVELED,NO,No,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+619,30902425,DIRT TRACK,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,6 to 10 kilometers,No
+620,30902606,DIRT TRACK,YES,No,No,No,No,No,NO,Under 2 kilometers,No,No,No,No,0 to 5 kilometes,No
+621,30903114,GRADED GRAVELED,NO,No,No,No,Yes,Yes,NO,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+622,30903528,DIRT TRACK,NO,No,No,No,No,No,NO,,Yes,No,No,No,6 to 10 kilometers,No
+623,30920609,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,,Yes,No,Yes,Yes,,Yes
+624,31001034,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,11 to 15 kilometers,No
+625,31001092,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,No,No,No,No,0 to 5 kilometes,No
+626,31001123,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,In the community,No,No,Yes,No,16 to 20 kilometers,No
+627,31001228,DIRT TRACK,NO,No,No,No,No,No,NO,In the community,No,No,Yes,No,16 to 20 kilometers,No
+628,31001242,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,In the community,No,No,Yes,Yes,,No
+629,31001333,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+630,31001647,DIRT TRACK,NO,No,No,No,No,No,NO,In the community,No,No,Yes,No,6 to 10 kilometers,No
+631,31001749,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,In the community,No,No,Yes,No,6 to 10 kilometers,No
+632,31002169,TAR/ASPHALT,YES,Yes,No,Yes,No,No,YES,In the community,Yes,No,Yes,No,0 to 5 kilometes,No
+633,31002245,TAR/ASPHALT,YES,Yes,No,No,No,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+634,31002677,TAR/ASPHALT,YES,Yes,No,Yes,No,No,YES,In the community,Yes,No,Yes,No,0 to 5 kilometes,No
+635,31003100,DIRT TRACK,NO,No,No,No,No,No,NO,,Yes,No,Yes,No,16 to 20 kilometers,No
+636,31003226,DIRT ROAD (MAINTAINED),NO,No,No,Yes,No,No,NO,In the community,Yes,No,Yes,Yes,,No
+637,31003482,GRADED GRAVELED,NO,Yes,No,Yes,Yes,No,YES,In the community,No,No,Yes,No,6 to 10 kilometers,No
+638,31003759,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+639,31004098,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,In the community,No,No,Yes,No,0 to 5 kilometes,No
+640,31004312,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,,No,No,Yes,No,0 to 5 kilometes,No
+641,31005061,TAR/ASPHALT,YES,Yes,No,No,No,No,YES,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+642,31006284,TAR/ASPHALT,YES,Yes,No,Yes,No,No,YES,In the community,Yes,No,Yes,No,6 to 10 kilometers,No
+643,31006556,DIRT TRACK,YES,Yes,No,No,Yes,No,NO,,No,No,Yes,Yes,,No
+644,31007335,DIRT TRACK,NO,No,No,No,No,No,NO,In the community,No,No,Yes,No,11 to 15 kilometers,No
+645,31007544,GRADED GRAVELED,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+646,31007549,GRADED GRAVELED,NO,Yes,No,No,No,No,NO,In the community,No,No,Yes,No,0 to 5 kilometes,No
+647,31007645,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,In the community,No,No,Yes,No,0 to 5 kilometes,No
+648,31101009,DIRT TRACK,NO,Yes,No,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+649,31101399,DIRT ROAD (MAINTAINED),YES,No,No,No,No,Yes,YES,In the community,No,No,Yes,Yes,,No
+650,31102266,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+651,31102591,DIRT TRACK,NO,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,16 to 20 kilometers,No
+652,31104086,GRADED GRAVELED,NO,Yes,No,Yes,Yes,No,YES,3 to 5 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+653,31104147,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,In the community,No,No,Yes,No,0 to 5 kilometes,No
+654,31104361,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,In the community,No,No,No,No,6 to 10 kilometers,No
+655,31104496,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,,No,Yes,Yes,No,0 to 5 kilometes,No
+656,31104691,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+657,31104696,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,,Yes,No,Yes,No,0 to 5 kilometes,No
+658,31105091,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,,Yes,No,Yes,No,0 to 5 kilometes,No
+659,31105559,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+660,31105581,GRADED GRAVELED,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+661,31106066,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,,No,No,No,No,0 to 5 kilometes,No
+662,31106182,TAR/ASPHALT,YES,Yes,No,No,No,No,YES,Under 2 kilometers,No,No,Yes,Yes,,No
+663,31106519,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,In the community,No,No,Yes,No,0 to 5 kilometes,No
+664,31106574,GRADED GRAVELED,YES,Yes,No,Yes,Yes,Yes,YES,In the community,No,No,Yes,No,0 to 5 kilometes,Yes
+665,31106682,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,In the community,No,No,Yes,No,0 to 5 kilometes,No
+666,31107406,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+667,31108265,DIRT TRACK,NO,No,No,No,No,No,NO,In the community,No,No,Yes,No,6 to 10 kilometers,No
+668,31108703,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,Yes,Yes,Yes,,No
+669,31110462,DIRT TRACK,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,21 to 25 kilometers,No
+670,31120097,TAR/ASPHALT,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+671,31120218,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,YES,Under 2 kilometers,No,No,Yes,No,0 to 5 kilometes,No
+672,31201007,TAR/ASPHALT,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,6 to 10 kilometers,No
+673,31201058,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,Under 2 kilometers,No,No,No,No,6 to 10 kilometers,No
+674,31201104,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+675,31201106,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+676,31201197,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,3 to 5 kilometers,No,Yes,Yes,No,0 to 5 kilometes,No
+677,31201230,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,6 to 10 kilometers,No
+678,31201234,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+679,31201250,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+680,31201350,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+681,31201516,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+682,31201726,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,Yes,,No
+683,31201747,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+684,31201765,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,5 and above kilometers,Yes,No,Yes,Yes,,No
+685,31204138,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,No,NO,Under 2 kilometers,No,No,Yes,Yes,,No
+686,31204184,DIRT ROAD (MAINTAINED),YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+687,31204209,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+688,31204267,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+689,31204390,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,11 to 15 kilometers,No
+690,31204410,TAR/ASPHALT,YES,Yes,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+691,31204489,DIRT ROAD (MAINTAINED),YES,No,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+692,31204532,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+693,31204618,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+694,31220487,DIRT ROAD (MAINTAINED),NO,Yes,Yes,Yes,No,Yes,YES,Under 2 kilometers,No,No,No,No,0 to 5 kilometes,No
+695,31220637,TAR/ASPHALT,YES,Yes,No,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,Yes
+696,31301246,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+697,31301304,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,NO,3 to 5 kilometers,Yes,No,Yes,No,Above 30 kilometers,No
+698,31301385,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+699,31301560,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+700,31301671,GRADED GRAVELED,NO,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,6 to 10 kilometers,No
+701,31301683,GRADED GRAVELED,NO,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+702,31302162,GRADED GRAVELED,YES,Yes,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,16 to 20 kilometers,No
+703,31302415,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,,No,No,No,No,11 to 15 kilometers,No
+704,31302578,DIRT TRACK,NO,No,No,No,No,No,NO,3 to 5 kilometers,No,No,No,No,Above 30 kilometers,No
+705,31302651,GRADED GRAVELED,YES,Yes,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+706,31302761,DIRT ROAD (MAINTAINED),NO,No,No,No,No,No,NO,5 and above kilometers,No,No,No,No,Above 30 kilometers,No
+707,31303067,GRADED GRAVELED,YES,No,No,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,No,Yes,,No
+708,31303263,GRADED GRAVELED,YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,0 to 5 kilometes,No
+709,31303327,TAR/ASPHALT,YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+710,31303467,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+711,31303567,GRADED GRAVELED,YES,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,11 to 15 kilometers,No
+712,31303585,GRADED GRAVELED,YES,No,No,No,No,No,NO,Under 2 kilometers,No,No,No,No,6 to 10 kilometers,No
+713,31303610,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,3 to 5 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+714,31303655,TAR/ASPHALT,YES,Yes,No,No,No,No,NO,5 and above kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+715,31303757,GRADED GRAVELED,YES,Yes,No,No,Yes,Yes,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+716,31306166,DIRT ROAD (MAINTAINED),NO,No,No,Yes,No,No,NO,3 to 5 kilometers,No,No,Yes,No,16 to 20 kilometers,No
+717,31306274,GRADED GRAVELED,NO,No,No,No,No,No,NO,5 and above kilometers,Yes,No,No,No,11 to 15 kilometers,No
+718,31306500,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,No,No,Yes,No,6 to 10 kilometers,No
+719,31306719,GRADED GRAVELED,YES,No,No,No,No,No,NO,3 to 5 kilometers,No,No,No,No,6 to 10 kilometers,No
+720,31431714,DIRT ROAD (MAINTAINED),YES,Yes,No,No,No,No,NO,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+721,31432279,DIRT ROAD (MAINTAINED),YES,No,No,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+722,31432523,DIRT ROAD (MAINTAINED),YES,No,No,No,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+723,31432676,TAR/ASPHALT,YES,Yes,Yes,Yes,No,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+724,31434099,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+725,31435120,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,No,11 to 15 kilometers,No
+726,31435149,DIRT ROAD (MAINTAINED),NO,Yes,Yes,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+727,31435423,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,Yes,No,YES,3 to 5 kilometers,Yes,No,Yes,Yes,,No
+728,31435753,DIRT ROAD (MAINTAINED),NO,No,Yes,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+729,31436063,DIRT ROAD (MAINTAINED),YES,No,Yes,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+730,31436695,GRADED GRAVELED,YES,No,Yes,Yes,Yes,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,Yes
+731,31438563,TAR/ASPHALT,YES,Yes,Yes,Yes,No,No,YES,Under 2 kilometers,Yes,Yes,No,No,0 to 5 kilometes,No
+732,31438622,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,No,No,YES,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+733,31438689,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,No,No,YES,5 and above kilometers,Yes,No,Yes,Yes,,No
+734,31438690,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,No
+735,31439102,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,No,No,0 to 5 kilometes,No
+736,31440002,GRADED GRAVELED,YES,No,Yes,Yes,Yes,Yes,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,Yes
+737,31440152,DIRT ROAD (MAINTAINED),YES,No,Yes,Yes,No,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,No
+738,31441389,GRADED GRAVELED,NO,No,Yes,Yes,No,No,NO,Under 2 kilometers,Yes,No,Yes,No,0 to 5 kilometes,Yes
+739,31442200,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,No,No,NO,Under 2 kilometers,Yes,No,No,Yes,,No
+740,31442394,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,NO,Under 2 kilometers,Yes,No,No,Yes,,No
+741,31442616,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,No,No,YES,Under 2 kilometers,Yes,No,Yes,Yes,,No
+742,31443108,TAR/ASPHALT,YES,Yes,Yes,Yes,No,No,NO,Under 2 kilometers,Yes,No,Yes,Yes,,No
+743,31443270,GRADED GRAVELED,YES,Yes,Yes,Yes,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+744,31531161,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,No
+745,31531303,DIRT ROAD (MAINTAINED),YES,No,Yes,Yes,Yes,No,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,No
+746,31532674,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,3 to 5 kilometers,Yes,Yes,Yes,Yes,,No
+747,31533095,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,Yes,YES,3 to 5 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+748,31534553,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,5 and above kilometers,Yes,Yes,Yes,Yes,,No
+749,31535633,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+750,31536118,TAR/ASPHALT,YES,Yes,Yes,Yes,No,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+751,31536257,TAR/ASPHALT,YES,Yes,Yes,Yes,No,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+752,31536751,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,Yes,Yes,YES,Under 2 kilometers,No,No,Yes,Yes,,Yes
+753,31538278,TAR/ASPHALT,YES,Yes,Yes,No,No,No,YES,3 to 5 kilometers,Yes,Yes,Yes,Yes,,Yes
+754,31539670,DIRT ROAD (MAINTAINED),YES,No,Yes,No,No,No,YES,3 to 5 kilometers,Yes,Yes,Yes,No,0 to 5 kilometes,No
+755,31540003,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,3 to 5 kilometers,Yes,Yes,Yes,Yes,,No
+756,31540419,TAR/ASPHALT,YES,Yes,Yes,Yes,No,No,YES,Under 2 kilometers,No,No,Yes,Yes,,No
+757,31541183,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,3 to 5 kilometers,Yes,Yes,Yes,No,6 to 10 kilometers,No
+758,31545384,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+759,31546760,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,No,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+760,31547429,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+761,31548148,TAR/ASPHALT,YES,Yes,Yes,No,No,No,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+762,31550254,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+763,31552612,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,No
+764,31552686,TAR/ASPHALT,YES,Yes,Yes,Yes,Yes,Yes,YES,Under 2 kilometers,Yes,Yes,Yes,Yes,,Yes
+765,31553237,GRADED GRAVELED,YES,Yes,Yes,Yes,Yes,No,YES,3 to 5 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+766,31554613,DIRT ROAD (MAINTAINED),YES,Yes,Yes,Yes,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
+767,31555614,DIRT ROAD (MAINTAINED),YES,No,Yes,No,Yes,No,YES,Under 2 kilometers,Yes,No,Yes,No,6 to 10 kilometers,No
