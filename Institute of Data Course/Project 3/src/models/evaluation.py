@@ -65,20 +65,19 @@ def calculate_metrics(y_test, y_pred, y_prob=None, sample_weights=None):
     if y_prob is not None:
         clip_yprob(y_prob)
         metrics['cross_entropy']     = log_loss(y_test,
-                                                clip_yprob(y_prob), 
+                                                clip_yprob(y_prob),
                                                 sample_weight=sample_weights)
         metrics['roc_auc']           = roc_auc_score(y_test,
-                                                     y_prob, 
+                                                     y_prob,
                                                      sample_weight=sample_weights)
 
         fpr, tpr, _ = roc_curve(y_test,
-                                y_prob, 
+                                y_prob,
                                 sample_weight=sample_weights)
         metrics['fpr']               = fpr
         metrics['tpr']               = tpr
-        metrics['auc']               = auc(fpr, tpr, reorder=True)
-
-    return metrics
+        metrics['auc']               = auc(fpr, tpr)
+        # metrics['auc']               = auc(fpr, tpr, reorder=True)
 
 def load_model_metrics(model_name, country):
     filepath = os.path.join(MODELS_DIR, country, model_name + '.pkl')
