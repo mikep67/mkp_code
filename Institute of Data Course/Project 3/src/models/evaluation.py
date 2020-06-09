@@ -28,7 +28,7 @@ from sklearn.metrics import (
     auc
 )
 
-from data.load_data import load_data, get_country_filepaths
+# 1 from data.load_data import load_data, get_country_filepaths
 from visualization.visualize import display_model_comparison
 
 PROJECT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__),
@@ -65,19 +65,21 @@ def calculate_metrics(y_test, y_pred, y_prob=None, sample_weights=None):
     if y_prob is not None:
         clip_yprob(y_prob)
         metrics['cross_entropy']     = log_loss(y_test,
-                                                clip_yprob(y_prob),
+                                                clip_yprob(y_prob), 
                                                 sample_weight=sample_weights)
         metrics['roc_auc']           = roc_auc_score(y_test,
-                                                     y_prob,
+                                                     y_prob, 
                                                      sample_weight=sample_weights)
 
         fpr, tpr, _ = roc_curve(y_test,
-                                y_prob,
+                                y_prob, 
                                 sample_weight=sample_weights)
         metrics['fpr']               = fpr
         metrics['tpr']               = tpr
+      # metrics['auc']               = auc(fpr, tpr, reorder=True)
         metrics['auc']               = auc(fpr, tpr)
-        # metrics['auc']               = auc(fpr, tpr, reorder=True)
+    
+    return metrics
 
 def load_model_metrics(model_name, country):
     filepath = os.path.join(MODELS_DIR, country, model_name + '.pkl')
@@ -119,22 +121,22 @@ def evaluate_model(y_test,
     metrics = calculate_metrics(y_test, y_pred, y_prob, sample_weights)
 
     # Predict national poverty rate
-    pov_rate_pred = None
-    if (predict_pov_rate == True) & (country is not None):
-        selected_columns = features
-        if type(features) in [pd.DataFrame, pd.Series]:
-            selected_columns = features.index.values
+   # pov_rate_pred = None
+   # if (predict_pov_rate == True) & (country is not None):
+   #     selected_columns = features
+   #     if type(features) in [pd.DataFrame, pd.Series]:
+   #         selected_columns = features.index.values
 
-        TRAIN_PATH, TEST_PATH, _ = get_country_filepaths(country)
-        pov_rate_actual, pov_rate_pred = predict_poverty_rate(TRAIN_PATH,
-                                                TEST_PATH,
-                                                model,
-                                                selected_columns=selected_columns,
-                                                show=False,
-                                                return_values=True)
-        metrics['pov_rate_error'] = pov_rate_pred - pov_rate_actual
-    else:
-        metrics['pov_rate_error'] = None
+   # TRAIN_PATH, TEST_PATH, _ = get_country_filepaths(country)
+   #    pov_rate_actual, pov_rate_pred = predict_poverty_rate(TRAIN_PATH,
+   #                                            TEST_PATH,
+   #                                            model,
+   #                                            selected_columns=selected_columns,
+   #                                            show=False,
+   #                                            return_values=True)
+   #    metrics['pov_rate_error'] = pov_rate_pred - pov_rate_actual
+   # else:
+   #    metrics['pov_rate_error'] = None
 
     # Provide an output name if none given
     if model_name is None:
@@ -149,22 +151,22 @@ def evaluate_model(y_test,
         # Load models to compare
         comp_models = [metrics]
         if compare_models is not None:
-            for comp_model in np.ravel(compare_models):
-                filepath = os.path.join(MODELS_DIR, country, comp_model + '.pkl')
-                with open(filepath, "rb") as f:
-                    m = pickle.load(f)
-                    m_metrics = calculate_metrics(m['y_true'],
-                                                  m['y_pred'],
-                                                  m['y_prob'],
-                                                  m['sample_weights'])
-                    m_metrics['name'] = m['name']
-                    m_metrics['pov_rate_error'] = m['pov_rate_error']
-                    comp_models.append(m_metrics)
-        display_model_comparison(comp_models, show_roc=(y_prob is not None))
+          # 1  for comp_model in np.ravel(compare_models):
+          # 1      filepath = os.path.join(MODELS_DIR, country, comp_model + '.pkl')
+          # 1      with open(filepath, "rb") as f:
+          # 1          m = pickle.load(f)
+          # 1          m_metrics = calculate_metrics(m['y_true'],
+          # 1                                        m['y_pred'],
+          # 1                                        m['y_prob'],
+          # 1                                        m['sample_weights'])
+          # 1         m_metrics['name'] = m['name']
+          # 1          m_metrics['pov_rate_error'] = m['pov_rate_error']
+          # 1          comp_models.append(m_metrics)
+            display_model_comparison(comp_models, show_roc=(y_prob is not None))
 
-        if (predict_pov_rate == True) & (country is not None):
-            print("Actual poverty rate: {:0.2%} ".format(pov_rate_actual))
-            print("Predicted poverty rate: {:0.2%} ".format(pov_rate_pred))
+       # 2 if (predict_pov_rate == True) & (country is not None):
+       # 2     print("Actual poverty rate: {:0.2%} ".format(pov_rate_actual))
+       # 2     print("Predicted poverty rate: {:0.2%} ".format(pov_rate_pred))
 
     # Store model
     if (store_model is True) & (model_name is not None) & (country is not None):
