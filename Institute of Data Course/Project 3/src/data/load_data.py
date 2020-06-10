@@ -66,7 +66,7 @@ def split_features_labels_weights(dataframe,
 
 
 def load_data(dataframe, selected_columns=None, ravel=True, standardize_columns='numeric'):
-    X, y, w = split_features_labels_weights(path)
+    X, y, w = split_features_labels_weights(dataframe)
     if selected_columns is not None:
         X = X[[col for col in X.columns.values if col in selected_columns]]
     if standardize_columns == 'numeric':
