@@ -65,19 +65,21 @@ def calculate_metrics(y_test, y_pred, y_prob=None, sample_weights=None):
     if y_prob is not None:
         clip_yprob(y_prob)
         metrics['cross_entropy']     = log_loss(y_test,
-                                                clip_yprob(y_prob),
+                                                clip_yprob(y_prob), 
                                                 sample_weight=sample_weights)
         metrics['roc_auc']           = roc_auc_score(y_test,
-                                                     y_prob,
+                                                     y_prob, 
                                                      sample_weight=sample_weights)
 
         fpr, tpr, _ = roc_curve(y_test,
-                                y_prob,
+                                y_prob, 
                                 sample_weight=sample_weights)
         metrics['fpr']               = fpr
         metrics['tpr']               = tpr
+      # metrics['auc']               = auc(fpr, tpr, reorder=True)
         metrics['auc']               = auc(fpr, tpr)
-        # metrics['auc']               = auc(fpr, tpr, reorder=True)
+    
+    return metrics
 
 def load_model_metrics(model_name, country):
     filepath = os.path.join(MODELS_DIR, country, model_name + '.pkl')
@@ -126,15 +128,15 @@ def evaluate_model(y_test,
             selected_columns = features.index.values
 
         TRAIN_PATH, TEST_PATH, _ = get_country_filepaths(country)
-        pov_rate_actual, pov_rate_pred = predict_poverty_rate(TRAIN_PATH,
-                                                TEST_PATH,
-                                                model,
-                                                selected_columns=selected_columns,
-                                                show=False,
-                                                return_values=True)
-        metrics['pov_rate_error'] = pov_rate_pred - pov_rate_actual
-    else:
-        metrics['pov_rate_error'] = None
+   #    pov_rate_actual, pov_rate_pred = predict_poverty_rate(TRAIN_PATH,
+   #                                            TEST_PATH,
+   #                                            model,
+   #                                            selected_columns=selected_columns,
+   #                                            show=False,
+   #                                            return_values=True)
+   #    metrics['pov_rate_error'] = pov_rate_pred - pov_rate_actual
+   # else:
+   #    metrics['pov_rate_error'] = None
 
     # Provide an output name if none given
     if model_name is None:
