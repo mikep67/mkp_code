@@ -53,20 +53,19 @@ def get_country_filepaths(country):
             os.path.join(country_dir, 'questions.json'))
 
 
-def split_features_labels_weights(dataframe,
+def split_features_labels_weights(path,
                                   weights=['wta_pop', 'wta_hh'],
                                   weights_col=['wta_pop'],
                                   label_col=['poor']):
     '''Split data into features, labels, and weights dataframes'''
-    # data = pd.read_pickle(path)
-    data=dataframe
+    data = pd.read_pickle(path)
     return (data.drop(weights + label_col, axis=1),
             data[label_col],
-           data[weights_col])
+            data[weights_col])
 
 
-def load_data(dataframe, selected_columns=None, ravel=True, standardize_columns='numeric'):
-    X, y, w = split_features_labels_weights(dataframe)
+def load_data(path, selected_columns=None, ravel=True, standardize_columns='numeric'):
+    X, y, w = split_features_labels_weights(path)
     if selected_columns is not None:
         X = X[[col for col in X.columns.values if col in selected_columns]]
     if standardize_columns == 'numeric':
