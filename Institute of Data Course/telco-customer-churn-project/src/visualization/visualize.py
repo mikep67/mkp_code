@@ -1,91 +1,9 @@
-# Adapted from World Bank GitHub
-# worldbank/ML-classification-algorithms-poverty
-# https://github.com/worldbank/ML-classification-algorithms-poverty
-
-# -*- coding: utf-8 -*-
-import os
 import numpy as np
 import pandas as pd
 import itertools
 import matplotlib.pyplot as plt
 from IPython.display import display
 
-# import itertools
-from IPython.display import display
-
-from keras.wrappers.scikit_learn import KerasClassifier
-from keras.models import load_model as KerasLoadModel
-
-
-from sklearn.metrics import (
-    confusion_matrix,
-    log_loss,
-    roc_auc_score,
-    accuracy_score,
-    precision_score
-)
-
-from sklearn.metrics import (
-    recall_score,
-    f1_score,
-    cohen_kappa_score,
-    roc_curve,
-    auc
-)
-
-
-def calculate_metrics(y_test, y_pred, y_prob=None, sample_weights=None):
-    """Cacluate model performance metrics"""
-
-    # Dictionary of metrics to calculate
-    metrics = {}
-    metrics['confusion_matrix']  = confusion_matrix(y_test, y_pred, sample_weight=sample_weights)
-    metrics['roc_auc']           = None
-    metrics['accuracy']          = accuracy_score(y_test, y_pred, sample_weight=sample_weights)
-    metrics['precision']         = precision_score(y_test, y_pred, sample_weight=sample_weights)
-    metrics['recall']            = recall_score(y_test, y_pred, sample_weight=sample_weights)
-    metrics['f1']                = f1_score(y_test, y_pred, sample_weight=sample_weights)
-    metrics['cohen_kappa']       = cohen_kappa_score(y_test, y_pred)
-    metrics['cross_entropy']     = None
-    metrics['fpr']               = None
-    metrics['tpr']               = None
-    metrics['auc']               = None
-
-    # Populate metrics that require y_prob
-    if y_prob is not None:
-        clip_yprob(y_prob)
-        metrics['cross_entropy']     = log_loss(y_test,
-                                                clip_yprob(y_prob), 
-                                                sample_weight=sample_weights)
-        metrics['roc_auc']           = roc_auc_score(y_test,
-                                                     y_prob, 
-                                                     sample_weight=sample_weights)
-
-        fpr, tpr, _ = roc_curve(y_test,
-                                y_prob, 
-                                sample_weight=sample_weights)
-        metrics['fpr']               = fpr
-        metrics['tpr']               = tpr
-      # metrics['auc']               = auc(fpr, tpr, reorder=True)
-        metrics['auc']               = auc(fpr, tpr)
-    
-    return metrics
-
-
-
-# Evaluate model performance. Options to display results
-metrics = calculate_metrics(y_test, y_pred, y_prob)
-
-# Provide an output name if none given:
-if model_name is None:
-    model_name = 'score'
-if prefix is not None:
-    model_name = prefix + "_" + model_name
-
-metrics['name'] = model_name
-
-
-display_model_comparison(comp_models, show_roc=(y_prob is not None))
 
 # Derived from https://pandas.pydata.org/pandas-docs/stable/style.html
 def highlight_abs_min(data, color='steelblue'):
@@ -205,7 +123,7 @@ def display_model_comparison(comp_models,
             ax = axes[i]
             conf_mat = comp_models[0]['confusion_matrix']
             plot_confusion_matrix(conf_mat, 
-                                  classes=['Non-poor', 'Poor'], 
+                                  classes=['Non-Churn', 'Churn'], 
                                   reverse=True,
                                   normalize=True,
                                   ax=ax, 
@@ -297,64 +215,3 @@ def display_feat_ranks(feats):
 
     display(feat_rankings.style.set_caption("Feature Ranking"))
     return feat_rankings
-
-
-# Clip y used to prevent y=0
-
-def clip_yprob(y_prob):
-    """Clip yprob to avoid 0 or 1 values. Fixes bug in log_loss calculation
-    that results in returning nan."""
-    eps = 1e-15
-    y_prob = np.array([x if x <= 1-eps else 1-eps for x in y_prob])
-    y_prob = np.array([x if x >= eps else eps for x in y_prob])
-    return y_prob
-
-def calculate_metrics(y_test, y_pred, y_prob=None):
-    """Cacluate model performance metrics"""
-
-    # Dictionary of metrics to calculate
-    metrics = {}
-    metrics['confusion_matrix']  = confusion_matrix(y_test, y_pred, sample_weight=sample_weights)
-    metrics['roc_auc']           = None
-    metrics['accuracy']          = accuracy_score(y_test, y_pred, sample_weight=sample_weights)
-    metrics['precision']         = precision_score(y_test, y_pred, sample_weight=sample_weights)
-    metrics['recall']            = recall_score(y_test, y_pred, sample_weight=sample_weights)
-    metrics['f1']                = f1_score(y_test, y_pred, sample_weight=sample_weights)
-    metrics['cohen_kappa']       = cohen_kappa_score(y_test, y_pred)
-    metrics['cross_entropy']     = None
-    metrics['fpr']               = None
-    metrics['tpr']               = None
-    metrics['auc']               = None
-
-    # Populate metrics that require y_prob
-    if y_prob is not None:
-        clip_yprob(y_prob)
-        metrics['cross_entropy']     = log_loss(y_test,
-                                                clip_yprob(y_prob))
-        metrics['roc_auc']           = roc_auc_score(y_test,
-                                                     y_prob)
-                                                     
-        fpr, tpr, _ = roc_curve(y_test,y_prob) 
-                                
-        metrics['fpr']               = fpr
-        metrics['tpr']               = tpr
-        metrics['auc']               = auc(fpr, tpr)
-    
-    return metrics
-
-def evaluate_model(y_test,
-                   y_pred,
-                   y_prob=None,
-                   sample_weights=None,
-                   show=True,
-                   compare_models=None,
-                   store_model=False,
-                   model_name=None,
-                   prefix=None,
-                   country=None,
-                   model=None,
-                   features=None,
-                   predict_pov_rate=True):
-    """Evaluate model performance. Options to display results and store model"""
-
-   
