@@ -37089,25 +37089,25 @@
 /***/ })
 /******/ ]);
 //# sourceMappingURL=bundle.js.map </script></head><body>
-        <div class="lime top_div" id="top_divD2VD8X0AK10B8ZM"></div>
+        <div class="lime top_div" id="top_div4LUKO6ML2SAXW24"></div>
         
         <script>
-        var top_div = d3.select('#top_divD2VD8X0AK10B8ZM').classed('lime top_div', true);
+        var top_div = d3.select('#top_div4LUKO6ML2SAXW24').classed('lime top_div', true);
         
         
                     var pp_div = top_div.append('div')
                                         .classed('lime predicted_value', true);
                     var pp_svg = pp_div.append('svg').style('width', '100%');
-                    var pp = new lime.PredictedValue(pp_svg, 0.13395905954210718, 0.0006175609529483791, 0.9889624562799928);
+                    var pp = new lime.PredictedValue(pp_svg, 0.13395905954210718, 0.0008694647331054629, 0.9871105194353135);
                     
         var exp_div;
             var exp = new lime.Explanation(["negative", "positive"]);
         
             exp_div = top_div.append('div').classed('lime explanation', true);
-            exp.show([["tenure > 0.92", -0.3049536718748648], ["TotalCharges > 0.66", 0.22855941749753328], ["0.19 < MonthlyCharges <= 0.83", 0.05676103202260171], ["TechSupport <= 0.00", 0.054146596688068475], ["OnlineSecurity <= 0.00", 0.048415468023226396], ["0.00 < Contract <= 1.00", -0.040123063706788066], ["SeniorCitizen <= 0.00", -0.03888127556256858], ["0.00 < PaperlessBilling <= 1.00", 0.038737445241195725], ["DeviceProtection <= 0.00", 0.03420539287377144], ["1.00 < OnlineBackup <= 2.00", -0.03024489770328519]], 1, exp_div);
+            exp.show([["tenure > 0.92", -0.3015589574143152], ["TotalCharges > 0.66", 0.24079284462068323], ["0.19 < MonthlyCharges <= 0.83", 0.05787026810899456], ["OnlineSecurity <= 0.00", 0.05670980100113706], ["TechSupport <= 0.00", 0.05389206472551708], ["0.00 < Contract <= 1.00", -0.030789735733439776], ["1.00 < OnlineBackup <= 2.00", -0.02927387613190691], ["0.00 < PaperlessBilling <= 1.00", 0.028259218345088568], ["DeviceProtection <= 0.00", 0.026874850704747447], ["1.00 < MultipleLines <= 2.00", 0.02497250370933324]], 1, exp_div);
             
         var raw_div = top_div.append('div');
-            exp.show_raw_tabular([["tenure", "1.41", -0.3049536718748648], ["TotalCharges", "1.55", 0.22855941749753328], ["MonthlyCharges", "0.79", 0.05676103202260171], ["TechSupport", "0.00", 0.054146596688068475], ["OnlineSecurity", "0.00", 0.048415468023226396], ["Contract", "1.00", -0.040123063706788066], ["SeniorCitizen", "0.00", -0.03888127556256858], ["PaperlessBilling", "1.00", 0.038737445241195725], ["DeviceProtection", "0.00", 0.03420539287377144], ["OnlineBackup", "2.00", -0.03024489770328519]], 1, raw_div);
+            exp.show_raw_tabular([["tenure", "1.41", -0.3015589574143152], ["TotalCharges", "1.55", 0.24079284462068323], ["MonthlyCharges", "0.79", 0.05787026810899456], ["OnlineSecurity", "0.00", 0.05670980100113706], ["TechSupport", "0.00", 0.05389206472551708], ["Contract", "1.00", -0.030789735733439776], ["OnlineBackup", "2.00", -0.02927387613190691], ["PaperlessBilling", "1.00", 0.028259218345088568], ["DeviceProtection", "0.00", 0.026874850704747447], ["MultipleLines", "2.00", 0.02497250370933324]], 1, raw_div);
         
         </script>
         </body></html>
